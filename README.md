@@ -6,6 +6,10 @@ Esse foi meu primeiro dashboard desenvolvido durante um curso da Data Science Ac
 
 A proposta foi explorar uma base de dados de vendas globais e transformar essas informações em visualizações que facilitassem a análise dos resultados.
 
+## Objetivo
+
+Analisar dados de vendas globais por meio de indicadores e visualizações, facilitando a compreensão dos resultados e a exploração das informações.
+
 ## Visualização do dashboard
 
 ![Dashboard Analítico de Vendas Globais](Dashboard%20Analitico%20de%20Vendas%20Globais.png)
@@ -26,6 +30,6 @@ A proposta foi explorar uma base de dados de vendas globais e transformar essas 
 
 Esse projeto foi uma oportunidade de colocar em prática os conhecimentos adquiridos no curso, explorar diferentes visualizações e entender melhor como um dashboard pode ajudar a organizar e interpretar dados.
 
-## Objetivo
+## Próximos passos
 
-Este projeto faz parte da minha jornada de aprendizado em análise de dados e da construção do meu portfólio profissional.
+Esse projeto faz parte da minha jornada de aprendizado em análise de dados e da construção do meu portfólio. Quero continuar praticando, desenvolvendo novos dashboards e aprimorando meus conhecimentos em Power BI.
