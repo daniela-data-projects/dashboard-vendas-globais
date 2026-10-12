@@ -22,9 +22,9 @@ Analisar dados de vendas globais por meio de indicadores e visualizações, faci
 * Distribuição geográfica das vendas.
 * Filtros para explorar os dados por ano, segmento e país.
 
-## Ferramentas utilizadas
-
-* Microsoft Power BI
+## 🛠️ Ferramentas utilizadas
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ## O que aprendi
 
