@@ -8,7 +8,7 @@ O objetivo foi explorar dados de vendas globais por meio de visualizações inte
 
 ## Visualização do dashboard
 
-Dashboard Analitico de Vendas Globais.png
+![Dashboard](Dashboard Analitico de Vendas Globais.png)
 
 ## Análises realizadas
 
