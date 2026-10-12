@@ -2,9 +2,9 @@
 
 ## Sobre o projeto
 
-Este projeto foi desenvolvido durante um curso de Power BI e representa meu primeiro dashboard de análise de dados.
+Esse foi meu primeiro dashboard desenvolvido durante um curso da Data Science Academy, utilizando o Power BI.
 
-O objetivo foi explorar dados de vendas globais por meio de visualizações interativas, facilitando a análise de indicadores e a identificação de padrões nos dados.
+A proposta foi explorar uma base de dados de vendas globais e transformar essas informações em visualizações que facilitassem a análise dos resultados.
 
 ## Visualização do dashboard
 
@@ -21,12 +21,13 @@ O objetivo foi explorar dados de vendas globais por meio de visualizações inte
 ## Ferramentas utilizadas
 
 * Microsoft Power BI
-* Visualização e análise de dados
 
-## Aprendizados
+## O que aprendi
 
-Durante o desenvolvimento, tive contato com a construção de dashboards, organização de informações, criação de gráficos e utilização de filtros para facilitar a análise dos dados.
+Esse projeto foi uma oportunidade de colocar em prática os conhecimentos adquiridos no curso, explorar diferentes visualizações e entender melhor como um dashboard pode ajudar a organizar e interpretar dados.
 
 ## Objetivo
 
 Este projeto faz parte da minha jornada de aprendizado em análise de dados e da construção do meu portfólio profissional.
+
+## Curso: Data Science Academy
