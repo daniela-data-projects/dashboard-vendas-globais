@@ -10,7 +10,7 @@ A proposta foi explorar uma base de dados de vendas globais e transformar essas 
 
 Analisar dados de vendas globais por meio de indicadores e visualizações, facilitando a compreensão dos resultados e a exploração das informações.
 
-## 🎯 Visualização do dashboard
+## 📊 Visualização do dashboard
 
 ![Dashboard Analítico de Vendas Globais](Dashboard%20Analitico%20de%20Vendas%20Globais.png)
 
