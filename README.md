@@ -29,5 +29,3 @@ Esse projeto foi uma oportunidade de colocar em prática os conhecimentos adquir
 ## Objetivo
 
 Este projeto faz parte da minha jornada de aprendizado em análise de dados e da construção do meu portfólio profissional.
-
-## Curso: Data Science Academy
