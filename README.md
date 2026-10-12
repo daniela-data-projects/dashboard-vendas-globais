@@ -28,7 +28,11 @@ Analisar dados de vendas globais por meio de indicadores e visualizações, faci
 
 ## 📚 O que aprendi
 
-Esse projeto foi uma oportunidade de colocar em prática os conhecimentos adquiridos no curso, explorar diferentes visualizações e entender melhor como um dashboard pode ajudar a organizar e interpretar dados.
+Esse foi meu primeiro projeto de dashboard no Power BI e foi uma experiência muito importante para colocar em prática o que venho aprendendo.
+
+Durante o desenvolvimento, pude explorar diferentes tipos de gráficos, analisar as vendas por categorias e países e trabalhar com indicadores, como total de vendas e média de desconto. Também aprendi mais sobre como utilizar filtros para explorar os dados de diferentes formas e tornar o dashboard mais interativo.
+
+Além de aprender mais sobre o Power BI, esse projeto me ajudou a entender melhor como organizar e apresentar informações de forma visual, facilitando a análise dos dados.
 
 ## 🚀 Próximos passos
 
