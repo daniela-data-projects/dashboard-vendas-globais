@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Esse foi meu primeiro dashboard desenvolvido durante um curso da Data Science Academy, utilizando o Power BI.
+Esse foi meu primeiro dashboard desenvolvido durante o curso da Data Science Academy, utilizando o Power BI.
 
 A proposta foi explorar uma base de dados de vendas globais e transformar essas informações em visualizações que facilitassem a análise dos resultados.
 
